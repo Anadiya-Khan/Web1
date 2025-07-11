@@ -1,0 +1,11 @@
+go to photoshop and make bg for html 
+(Html attributes)
+1 - no shade will not add any color
+2 - color will not show
+3 - scrolling marquee scrolldelay how fast the text scroll scrollamount takes time to dalay
+4 - ordered list i,I,roman number 1,A,a
+5 - unordered list bullet list,circle,square, <ol type="1" start="101"> <ol reversed> will count disk
+6 - &nbsp non-breakable space
+7 - pre- jaisa likhengay waisa hi aayega
+8 - subscriptH2O super script 24th
+9 - tt
